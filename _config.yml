@@ -23,7 +23,7 @@ email: emmasuechoi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Researcher website.
 baseurl: "/lanyon" # the subpath of your site, e.g. /blog
-url: "http://Emma-Choi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://Emma-Choi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  Emma-Choi
 
